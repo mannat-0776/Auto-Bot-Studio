@@ -90,4 +90,4 @@ Fork it, add more bots, submit a PR!
 
 ---
 
-Made with ⚡ by [Mannat](https://github.com/yourusername)
+Made with ⚡ by [Mannat](https://github.com/mannat-0776)
